@@ -58,7 +58,7 @@ skills:
         description: ''
         percent: 85
         icon: rstudio
-        icon_pack: hb
+        icon_pack: devicon
       - name: Stata
         description: ''
         percent: 70

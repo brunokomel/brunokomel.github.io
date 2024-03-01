@@ -61,7 +61,7 @@ skills:
         icon_pack: devicon
       - name: Stata
         description: ''
-        percent: 70
+        percent: 75
         icon: stata
         icon_pack: devicon
       - name: SQL

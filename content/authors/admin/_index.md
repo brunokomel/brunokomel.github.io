@@ -53,7 +53,7 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
-    items:
+    items: 
       - name: R
         description: ''
         percent: 85
@@ -72,8 +72,8 @@ skills:
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
-    items:
-       - name: Dogs
+    items: 
+      - name: Dogs
         description: ''
         percent: 100
         icon: dog

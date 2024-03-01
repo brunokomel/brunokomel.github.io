@@ -30,7 +30,7 @@ bio: I am a Ph.D. candidate at the Department of Economics. My interests are in 
 # Interests to show in About widget
 interests:
   - Development Economics
-  - Political Economics
+  - Political Economy
   - Public Economics
 
 # Education to show in About widget

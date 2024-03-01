@@ -58,12 +58,12 @@ skills:
         description: ''
         percent: 85
         icon: devicon/rstudio
-        icon_pack: fab
+        icon_pack: devicon
       - name: Stata
         description: ''
         percent: 70
         icon: stata
-        icon_pack: fab
+        icon_pack: devicon
       - name: SQL
         description: ''
         percent: 50

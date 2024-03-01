@@ -82,12 +82,12 @@ skills:
         description: ''
         percent: 75
         icon: hexagon
-        icon_pack: custom
+        icon_pack: ''
       - name: Cycling
         description: ''
         percent: 20
         icon: bike
-        icon_pack: custom
+        icon_pack: ''
    
 
 # Social/Academic Networking

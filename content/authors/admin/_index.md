@@ -54,14 +54,14 @@ education:
 skills:
   - name: Technical
     items: 
-      - name: RStudio
+      - name: R
         description: ''
         percent: 85
         icon: rstudio
         icon_pack: devicon
       - name: Stata
         description: ''
-        percent: 75
+        percent: 70
         icon: stata
         icon_pack: devicon
       - name: SQL

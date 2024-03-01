@@ -45,7 +45,7 @@ education:
     - course: M.Sc. in Accounting
       institution: University of Virginia
       year: 2018
-    - course: B.A. in Business (Accounting/Finance)
+    - course: B.A. in Business
       institution: Covenant College
       year: 2017
 
@@ -57,13 +57,13 @@ skills:
       - name: R
         description: ''
         percent: 85
-        icon: devixon/rstudio
+        icon: rstudio
         icon_pack: fab
       - name: Stata
         description: ''
         percent: 70
-        icon: chart-line
-        icon_pack: fas
+        icon: stata
+        icon_pack: fab
       - name: SQL
         description: ''
         percent: 50

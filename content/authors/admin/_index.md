@@ -86,8 +86,8 @@ skills:
       - name: Cycling
         description: ''
         percent: 20
-        icon: bike
-        icon_pack: ''
+        icon: bicycle
+        icon_pack: fas
    
 
 # Social/Academic Networking

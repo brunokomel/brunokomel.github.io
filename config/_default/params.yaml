@@ -111,7 +111,7 @@ extensions:
   devicon:
     enable: true
 
-# Security
+# Security  
 
 security:
   # Allow frame for embedding speaker notes in slides

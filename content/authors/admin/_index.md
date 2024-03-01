@@ -57,7 +57,7 @@ skills:
       - name: R
         description: ''
         percent: 85
-        icon: rstudio
+        icon: python
         icon_pack: fab
       - name: Stata
         description: ''

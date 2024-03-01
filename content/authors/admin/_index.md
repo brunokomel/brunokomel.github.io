@@ -54,7 +54,7 @@ education:
 skills:
   - name: Technical
     items: 
-      - name: R
+      - name: RStudio
         description: ''
         percent: 85
         icon: rstudio

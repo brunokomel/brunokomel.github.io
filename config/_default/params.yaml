@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'University of Pittsburgh'
+    description: 'Academic researcher at the University of Pittsburgh'
+    twitter: ''
   analytics:
     google_analytics: 'G-K3MCTMMLZQ'
     baidu_tongji: ''

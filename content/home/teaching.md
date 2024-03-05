@@ -26,4 +26,4 @@ Fall 2022, 2023
 ### Empirical Methods (Ph.D.)
 
 Spring 2023, 2024
-<!-- [website](https://www.mi.uni-koeln.de/NumSim/teaching/seminar-maschinelles-lernen-in-theorie-und-praxis-14722-0039/) -->
+[GitHub Repo](https://github.com/brunokomel/econ-3080-recitations)

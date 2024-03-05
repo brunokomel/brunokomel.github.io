@@ -29,6 +29,19 @@ marketing:
     google: ''
     baidu: ''
 
+
+# Contact (edit or remove options as required)
+
+email: brunokomel@gmail.com
+#phone: +1 360.553.6277
+address:
+  street: 230 S Bouquet St
+  city: Pittsburgh
+  region: PA
+  postcode: '15260'
+  country: USA
+  #country_code: USA
+
 # Site header
 
 header:

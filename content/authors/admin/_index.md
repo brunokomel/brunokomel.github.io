@@ -1,61 +1,122 @@
 ---
-role: Interim Professor
-avatar_filename: avatar.png
-bio: ""
+# Display name
+title: Bruno Kömel
+
+# Name pronunciation (optional)
+name_pronunciation: ''
+
+# Full name (for SEO)
+first_name: Bruno
+last_name: Komel
+
+# Status emoji
+status:
+  icon: ☕️
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position/tagline
+role: Ph.D. Candidate in Economics
+
+# Organizations/Affiliations to show in About widget
+organizations:
+  - name: University of Pittsburgh
+    url: https://www.econ.pitt.edu
+
+# Short bio (displayed in user profile at end of posts)
+bio: I am a Ph.D. candidate at the Department of Economics at the University of Pittsburgh. My interests are in development and labor economics, especially as it pertains to institutions, the provision of public goods, and agriculture.
+
+# Interests to show in About widget
 interests:
-  - Adaptive multi-physics simulations
-  - Scientific machine learning
-  - Research software engineering for high-performance computing with Julia
-  - Applications in fluid mechanics, aeroacoustics, and astrophysics
+  - Development Economics
+  - Political Economy
+  - Public Economics
+
+# Education to show in About widget
+education:
+  courses:
+    - course: Ph.D. in Economics
+      institution: University of Pittsburgh
+      year: Expected 2026
+    - course: M.A. in Economics
+      institution: University of Pittsburgh
+      year: 2022
+    - course: M.Sc. in Accounting
+      institution: University of Virginia
+      year: 2018
+    - course: B.A. in Business
+      institution: Covenant College
+      year: 2017
+
+# Skills
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# skills:
+#   - name: Technical
+#     items: 
+#       - name: R
+#         description: ''
+#         percent: 85
+#         icon: rstudio
+#         icon_pack: devicon
+#       - name: Stata
+#         description: ''
+#         percent: 70
+#         icon: stata
+#         icon_pack: devicon
+#       - name: SQL
+#         description: ''
+#         percent: 50
+#         icon: database
+#         icon_pack: fas
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items: 
+#       - name: Dogs
+#         description: ''
+#         percent: 100
+#         icon: dog
+#         icon_pack: fas
+#       - name: Board Games
+#         description: ''
+#         percent: 75
+#         icon: hexagon
+#         icon_pack: ''
+#       - name: Cycling
+#         description: ''
+#         percent: 20
+#         icon: bicycle
+#         icon_pack: fas
+   
+
+# Social/Academic Networking
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:m.schlottke-lakemper@acom.rwth-aachen.de
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=k3vPAhsAAAAJ
-  - display:
-      header: false
-    link: https://orcid.org/0000-0002-3195-2536
-    icon_pack: ai
-    icon: orcid
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/michaelschlottkelakemper
+    link: 'mailto:brunokomel@gmail.com'
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/sloede
-  - icon: researchgate
+    link: https://github.com/brunokomel
+  - icon: linkedin
     icon_pack: fab
-    link: https://www.researchgate.net/profile/Michael_Schlottke-Lakemper
-organizations:
-  - name: RWTH Aachen University, Germany
-    url: https://www.acom.rwth-aachen.de/5people/schlottke-lakemper/start
-education:
-  courses:
-    - course: Dr.-Ing. in Computational Engineering Science
-      institution: RWTH Aachen University, Germany
-      year: 2017
-    - course: Dipl.-Ing. in Aerospace Engineering
-      institution: University of Stuttgart, Germany
-      year: 2011
-    - course: " MS in Aerospace Engineering"
-      institution: Georgia Institute of Technology, US
-      year: 2010
-superuser: true
+    link: www.linkedin.com/in/brunokomel
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # and uncomment the lines below.
+  - icon: cv
+    icon_pack: ai
+    link: uploads/cv.pdf
+
+# Highlight the author in author lists? (true/false)
 highlight_name: true
-title: Michael Schlottke-Lakemper
-email: michael@sloede.com
 ---
-I am an interim professor (Vertretungsprofessor) for Computational Mathematics and
-research software engineer at the
-[Applied and Computational Mathematics Research Lab](https://www.acom.rwth-aachen.de)
-at
-[RWTH Aachen University, Germany](https://www.rwth-aachen.de).
-For this position, I am currently on leave from heading the
-[Training & Scalable Algorithms group](https://www.hlrs.de/about/tasc)
-at the
-[High-Performance Computing Center Stuttgart (HLRS)](https://www.hlrs.de).
-My research focus is on numerical methods for adaptive multi-physics
-simulations, research software engineering for high-performance computing, and
-scientific machine learning.
+
+I am a Ph.D. candidate at the Department of Economics at the University of Pittsburgh. My interests are in development and labor economics, especially as it pertains to institutions, the provision of public goods, and agriculture.
+{style="text-align: justify;"}

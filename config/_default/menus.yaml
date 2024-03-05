@@ -16,7 +16,7 @@ main:
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
-  - name: Publications
+  - name: Research
     url: '#publications'
     weight: 40
   - name: Teaching

@@ -10,7 +10,7 @@ baseURL: 'https://brunokomel.github.io/' # Website URL
 ## LANGUAGE
 ############################
 
-relativeURLs: true
+#relativeURLs: true
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false

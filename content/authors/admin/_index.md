@@ -95,6 +95,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+  - icon: cv
+    icon_pack: ai
+    link: uploads/cv.pdf
   - icon: envelope
     icon_pack: fas
     link: 'mailto:brunokomel@gmail.com'
@@ -110,9 +113,7 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/cv.pdf
+
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

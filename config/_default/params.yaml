@@ -33,14 +33,35 @@ marketing:
 # Contact (edit or remove options as required)
 
 email: brunokomel@gmail.com
-phone: +1 360.553.6277
+phone: +1 (360) 553-6277
 address:
   street: 230 S Bouquet St
   city: Pittsburgh
-  region: PA
+#  region: PA
   postcode: '15260'
   country: USA
+  
   #country_code: USA
+# office_hours:
+#   - 'I do not have regular office hours. Please make an appointment via email.'
+# appointment_url: 'https://calendly.com'
+contact_links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: DM Me
+#    link: 'https://twitter.com/Twitter'
+#  - icon: skype
+#    icon_pack: fab
+#    name: Skype Me
+#    link: 'skype:echo123?call'
+#  - icon: keybase
+#    icon_pack: fab
+#    name: Chat on Keybase
+#    link: 'https://keybase.io/'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
 
 # Site header
 

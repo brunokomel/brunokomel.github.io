@@ -16,6 +16,15 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
   
+  email: brunokomel@gmail.com
+  phone: +1 (360) 553-6277
+  address:
+    street: 230 S Bouquet St
+    city: Pittsburgh
+    region: PA
+    postcode: '15260'
+    country: USA
+  
   # Email form provider
   form:
     provider:

@@ -43,7 +43,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'uploads/working-papers/Second_Year_Paper___4th_Version.pdf'
+url_pdf: https://brunokomel.github.io/uploads/working-papers/Second_Year_Paper___4th_Version.pdf
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''

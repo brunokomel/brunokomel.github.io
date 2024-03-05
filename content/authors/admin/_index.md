@@ -51,43 +51,43 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items: 
-      - name: R
-        description: ''
-        percent: 85
-        icon: rstudio
-        icon_pack: devicon
-      - name: Stata
-        description: ''
-        percent: 70
-        icon: stata
-        icon_pack: devicon
-      - name: SQL
-        description: ''
-        percent: 50
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items: 
-      - name: Dogs
-        description: ''
-        percent: 100
-        icon: dog
-        icon_pack: fas
-      - name: Board Games
-        description: ''
-        percent: 75
-        icon: hexagon
-        icon_pack: ''
-      - name: Cycling
-        description: ''
-        percent: 20
-        icon: bicycle
-        icon_pack: fas
+# skills:
+#   - name: Technical
+#     items: 
+#       - name: R
+#         description: ''
+#         percent: 85
+#         icon: rstudio
+#         icon_pack: devicon
+#       - name: Stata
+#         description: ''
+#         percent: 70
+#         icon: stata
+#         icon_pack: devicon
+#       - name: SQL
+#         description: ''
+#         percent: 50
+#         icon: database
+#         icon_pack: fas
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items: 
+#       - name: Dogs
+#         description: ''
+#         percent: 100
+#         icon: dog
+#         icon_pack: fas
+#       - name: Board Games
+#         description: ''
+#         percent: 75
+#         icon: hexagon
+#         icon_pack: ''
+#       - name: Cycling
+#         description: ''
+#         percent: 20
+#         icon: bicycle
+#         icon_pack: fas
    
 
 # Social/Academic Networking

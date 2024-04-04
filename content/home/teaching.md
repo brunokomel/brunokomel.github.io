@@ -21,7 +21,7 @@ Summer 2024
 ### Econometric Theory 1 (Ph.D.)
 
 Fall 2022, 2023
-[website](https://www.mi.uni-koeln.de/NumSim/teaching/seminar-numerische-methoden-in-der-stromungsmechanik-14722-0042-ss21/)
+<!-- [website](https://www.mi.uni-koeln.de/NumSim/teaching/seminar-numerische-methoden-in-der-stromungsmechanik-14722-0042-ss21/) -->
 
 ### Empirical Methods (Ph.D.)
 

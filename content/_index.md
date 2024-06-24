@@ -1,15 +1,11 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Bruno Kömel
+title: ''
 date: 2022-10-24
-type: landing ## change this to 'landing' and it will go back to the default (hero is what it came with)
+type: widget_page ## change this to 'landing' and it will go back to the default
 
-sections:
-#   - block: about.avatar
-#     id: about
-#     content: 
-#         username: admin
-#         text:
+# sections:
+#   - block: hero
 #     demo: true # Only display this section in the Hugo Blox Builder demo site
 #     content:
 #       title: Hugo Academic Theme
@@ -202,23 +198,20 @@ sections:
 #     # design:
 #     #   columns: '2'
 #     #   view: card
-  - block: collection
-    # id: working
-    content:
-      title: Working Papers
-      # text: |-
-      #   {{% callout note %}}
-      #   Quickly discover relevant content by [filtering publications](./publication/).
-      #   {{% /callout %}}
-      filters:
-        folders:
-          - publication
-          working_only: true
-          tag: Working Papers
-        # exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+#   - block: collection
+#     content:
+#       title: Working Papers
+#       # text: |-
+#       #   {{% callout note %}}
+#       #   Quickly discover relevant content by [filtering publications](./publication/).
+#       #   {{% /callout %}}
+#       filters:
+#         folders:
+#           - publication
+#         exclude_featured: true
+#     design:
+#       columns: '2'
+#       view: citation
 #   - block: collection
 #     id: talks
 #     content:

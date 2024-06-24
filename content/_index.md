@@ -233,21 +233,21 @@ sections:
 #     # design:
 #     #   columns: '2'
 #     #   view: card
-  - block: collection
-    content:
-      title: Working Papers
-      # text: |-
-      #   {{% callout note %}}
-      #   Quickly discover relevant content by [filtering publications](./publication/).
-      #   {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        # tag: Working Papers
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+#   - block: collection
+#     content:
+#       title: Working Papers
+#       # text: |-
+#       #   {{% callout note %}}
+#       #   Quickly discover relevant content by [filtering publications](./publication/).
+#       #   {{% /callout %}}
+#       filters:
+#         folders:
+#           - publication
+#         # tag: Working Papers
+#         exclude_featured: true
+#     design:
+#       columns: '2'
+#       view: citation
 #   - block: collection
 #     id: talks
 #     content:

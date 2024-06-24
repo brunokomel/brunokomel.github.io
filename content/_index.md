@@ -2,7 +2,7 @@
 # Leave the homepage title empty to use the site title
 title: 'Bruno Kömel'
 date: 2022-10-24
-type: landing ## change this to 'landing' and it will go back to the default
+type: widget_page ## change this to 'landing' and it will go back to the default
 
 # sections:
 #   - block: hero

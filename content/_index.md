@@ -4,8 +4,8 @@ title: ''
 date: 2022-10-24
 type: widget_page ## change this to 'landing' and it will go back to the default
 
-# sections:
-#   - block: hero
+sections:
+  - block: hero
 #     demo: true # Only display this section in the Hugo Blox Builder demo site
 #     content:
 #       title: Hugo Academic Theme
@@ -198,20 +198,23 @@ type: widget_page ## change this to 'landing' and it will go back to the default
 #     # design:
 #     #   columns: '2'
 #     #   view: card
-#   - block: collection
-#     content:
-#       title: Working Papers
-#       # text: |-
-#       #   {{% callout note %}}
-#       #   Quickly discover relevant content by [filtering publications](./publication/).
-#       #   {{% /callout %}}
-#       filters:
-#         folders:
-#           - publication
-#         exclude_featured: true
-#     design:
-#       columns: '2'
-#       view: citation
+  - block: collection
+    id: working
+    content:
+      title: Working Papers
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
+      filters:
+        folders:
+          - publication
+          working_only: true
+          tag: Working Papers
+        # exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
 #   - block: collection
 #     id: talks
 #     content:

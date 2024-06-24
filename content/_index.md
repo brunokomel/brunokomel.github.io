@@ -5,18 +5,18 @@ date: 2022-10-24
 type: widget_page ## change this to 'landing' and it will go back to the default
 
 sections:
-    - block: collection
-        id: publications
-        content:
-        title: Working Papers
-        filters:
-            folders:
-            - publication
-            working_only: true
-            tag: Working Papers
-        design:
-        columns: '2'
-        view: citation
+    # - block: collection
+    #     id: publications
+    #     content:
+    #     title: Working Papers
+    #     filters:
+    #         folders:
+    #         - publication
+    #         working_only: true
+    #         tag: Working Papers
+    #     design:
+    #     columns: '2'
+    #     view: citation
     # - block: collection
     #     id: working2
     #     content:

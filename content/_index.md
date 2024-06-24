@@ -243,7 +243,7 @@ sections:
       filters:
         folders:
           - publication
-        tag: Working Papers
+        # tag: Working Papers
         exclude_featured: true
     design:
       columns: '2'

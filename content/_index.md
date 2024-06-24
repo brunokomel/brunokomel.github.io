@@ -4,7 +4,42 @@ title: 'Bruno Kömel'
 date: 2022-10-24
 type: widget_page ## change this to 'landing' and it will go back to the default
 
-# sections:
+sections:
+    - block: collection
+        id: working
+        content:
+        title: Working Papers
+        filters:
+            folders:
+            - publication
+            working_only: true
+            tag: Working Papers
+        design:
+        columns: '2'
+        view: citation
+    - block: collection
+        id: working2
+        content:
+        title: Work in Progress
+        filters:
+            folders:
+            - publication
+            working2_only: true
+            tag: Work in Progress
+        design:
+        columns: '2'
+        view: citation
+    - block: collection    
+        id: publications
+        content:
+        title: Publications
+        filters:
+            folders:
+            - publication
+            tag: Publication
+        design:
+        columns: '2'
+        view: citation
 #   - block: hero
 #     demo: true # Only display this section in the Hugo Blox Builder demo site
 #     content:

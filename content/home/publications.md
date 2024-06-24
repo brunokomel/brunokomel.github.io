@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Working Papers
-subtitle: ''
+title: Research
+subtitle: Working Papers
 
 content:
   # Page type to display. E.g. post, talk, publication...

@@ -2,10 +2,14 @@
 # Leave the homepage title empty to use the site title
 title: ''
 date: 2022-10-24
-type: widget_page ## change this to 'landing' and it will go back to the default
+type: widgelandingt_page ## change this to 'landing' and it will go back to the default
 
 sections:
-  - block: hero
+  - block: about.avatar
+    id: about
+    content: 
+        username: admin
+        text:
 #     demo: true # Only display this section in the Hugo Blox Builder demo site
 #     content:
 #       title: Hugo Academic Theme
@@ -199,7 +203,7 @@ sections:
 #     #   columns: '2'
 #     #   view: card
   - block: collection
-    id: working
+    # id: working
     content:
       title: Working Papers
       # text: |-

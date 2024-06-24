@@ -5,11 +5,11 @@ date: 2022-10-24
 type: landing ## change this to 'landing' and it will go back to the default (hero is what it came with)
 
 sections:
-  - block: about.avatar
-    id: about
-    content: 
-        username: admin
-        text:
+#   - block: about.avatar
+#     id: about
+#     content: 
+#         username: admin
+#         text:
 #     demo: true # Only display this section in the Hugo Blox Builder demo site
 #     content:
 #       title: Hugo Academic Theme

@@ -34,7 +34,7 @@ abstract: This paper provides evidence that randomized audits of municipal funds
 summary: This paper provides evidence that randomized audits of municipal funds in Brazil led to an improvement in outcomes for public school students, but were not as effective in improving the provision of all public services.
 
 tags: 
-- Working Papers
+# - Working Papers
 
 # Display this page in the Featured widget?
 featured: false

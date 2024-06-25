@@ -1,5 +1,5 @@
 ---
-title: 'Monitoring and Delviering: Evidence from Dropout Rates in Brazil'
+title: 'Monitoring and Delivering: Evidence from Dropout Rates in Brazil'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -16,14 +16,16 @@ authors:
 # Date format '2024-12-01T00:00:00Z'
 # date: '' 
 doi: ''
+date: '2024-06-24T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-00-00T00:00:00Z' 
+# publishDate: ''
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["3"] #['paper-conference']
+publication_types: ["3"] 
+#['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: ''
@@ -34,12 +36,12 @@ abstract: This paper provides evidence that randomized audits of municipal funds
 # Summary. An optional shortened abstract.
 summary: This paper provides evidence that randomized audits of municipal funds in Brazil led to an improvement in outcomes for public school students, but were not as effective in improving the provision of all public services.
 
-tags: 
+# tags: 
 # - Working Papers
 
 # Display this page in the Featured widget?
 featured: false
-working: true
+# working: true
 
 # Custom links (uncomment lines below)
 # links:

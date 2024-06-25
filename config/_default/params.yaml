@@ -32,7 +32,7 @@ marketing:
 
 # Contact (edit or remove options as required)
 
-email: brunokomel@gmail.com
+email: brunokomel@pitt.edu
 phone: +1 (360) 553-6277
 address:
   street: 230 S Bouquet St
@@ -79,7 +79,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Bruno Kömel. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

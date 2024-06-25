@@ -16,7 +16,7 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
   
-  email: brunokomel@gmail.com
+  email: brunokomel@pitt.edu
   phone: +1 (360) 553-6277
   address:
     street: 230 S Bouquet St
@@ -24,6 +24,14 @@ content:
     region: PA
     postcode: '15260'
     country: USA
+  contact_links:
+  - icon: vcard
+    icon_pack: fa
+    name: 'Alternate spellings: Kömel, Komel, Koemel'
+    link: ''
+
+
+
   
   # Email form provider
   form:

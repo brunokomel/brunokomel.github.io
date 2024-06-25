@@ -14,12 +14,11 @@ authors:
 #   - 'Equal contribution'
 
 # Date format '2024-12-01T00:00:00Z'
-date: false 
+date: '' 
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-# '2024-06-24T00:00:00Z'
-publishDate: false 
+publishDate: '2024-00-00T00:00:00Z' 
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

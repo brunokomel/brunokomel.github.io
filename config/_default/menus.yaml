@@ -17,7 +17,7 @@ main:
   #   url: '#talks'
   #   weight: 40
   - name: Research
-    url: '#workingpapers'
+    url: '#workingpapers' ## Change this to whatever .md file you want to link to
     weight: 40
   - name: Teaching
     url: '#teaching'

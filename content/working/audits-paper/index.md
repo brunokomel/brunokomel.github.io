@@ -16,10 +16,10 @@ authors:
 # Date format '2024-12-01T00:00:00Z'
 # date: '' 
 doi: ''
-date: '2024-06-24T00:00:00Z'
+date: '2024-08-08T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-24T00:00:00Z'
+publishDate: '2024-08-08T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -31,7 +31,7 @@ publication_types: ["3"]
 publication: ''
 publication_short: ''
 
-abstract: This paper provides evidence that randomized audits of municipal funds in Brazil led to an improvement in outcomes for public school students, but were not as effective in improving the provision of all public services. I find causal evidence that the audits led to a decrease in the dropout rates in municipal elementary and middle schools by ten percent (0.34 percentage points). A back-of-the-envelope calculation, ignoring spillovers, suggests that one fewer student dropped out, per school, per two years, as a result of these municipal audits. This amounts to approximately one third of the estimates of the decrease in dropout rates resulting from \textit{Bolsa Família}, a large conditional cash transfer program in Brazil designed, in part, to minimize student abandonment. Additionally, I show that the audits' effectiveness in decreasing dropout rates is dependent on each municipality’s reliance on conditional cash transfers, and on the quantity of irregularities uncovered during the audit. I also find suggestive evidence that this effect is driven by a disciplining effect on audited mayors, especially in the presence of re-election incentives. These results support the notion that monitoring and accountability can effectively realign the incentives of politicians and their constituencies.
+abstract: This paper provides evidence that randomized audits of municipal funds in Brazil led to an improvement in outcomes for public school students, but were not as effective in improving the provision of all public services. I find causal evidence that the audits led to a ten percent decrease in the dropout rates at municipal primary schools, which amounts to a decrease of 0.34 percentage points. A back-of-the-envelope calculation, ignoring spillovers, suggests that one fewer student dropped out, per school, per two years, as a result of these municipal audits. This amounts to approximately one third of the estimates of the decrease in dropout rates resulting from \textit{Bolsa Família}, a large conditional cash transfer program in Brazil designed, in part, to minimize student abandonment. Additionally, I show that the audits' effectiveness in decreasing dropout rates is dependent on each municipality’s reliance on conditional cash transfers, and on the quantity of irregularities uncovered during the audit. I also find suggestive evidence that this effect is driven by a disciplining effect on audited mayors, especially in the presence of re-election incentives. These results support the notion that monitoring and accountability can effectively realign the incentives of politicians and their constituencies.
 
 # Summary. An optional shortened abstract.
 summary: This paper provides evidence that randomized audits of municipal funds in Brazil led to an improvement in outcomes for public school students, but were not as effective in improving the provision of all public services.

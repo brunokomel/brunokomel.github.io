@@ -31,7 +31,6 @@ bio: I am a Ph.D. student (4th year) at the Department of Economics at the Unive
 interests:
   - Development Economics
   - Political Economy
-  - Economics of Religion
   - Public Economics
 
 # Education to show in About widget

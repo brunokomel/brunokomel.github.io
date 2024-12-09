@@ -25,7 +25,7 @@ organizations:
     url: https://www.econ.pitt.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. student (4th year) at the Department of Economics at the University of Pittsburgh. My interests are in development economics, public economics, and political economy, especially regarding institutions, the provision of public goods, and agriculture.
+bio: I am a Ph.D. student (4th year) at the Department of Economics at the University of Pittsburgh. My interests are in development economics, public economics, economics of religion, and political economy, especially regarding institutions, the provision of public goods, and agriculture.
 
 # Interests to show in About widget
 interests:

@@ -20,9 +20,12 @@ main:
   # Change this to whatever .md file you want to link to
     url: '#workingpapers' 
     weight: 40
+  # - name: Research 2
+  #   url: '#workinprogress' 
+  #   weight: 45
   - name: Teaching
     url: '#teaching'
-    weight: 45
+    weight: 50
   # - name: Personal Blog
   #   url: '#blog'
   #   weight: 50

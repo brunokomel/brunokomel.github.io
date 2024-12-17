@@ -120,6 +120,6 @@ social:
 highlight_name: true
 ---
 
- I am a Ph.D. candidate at the Department of Economics at the University of Pittsburgh. My interests are in development economics, political economy, economics of religion, and public economics.
+ I am a Ph.D. candidate in the Department of Economics at the University of Pittsburgh. My interests are in development economics, political economy, economics of religion, and public economics.
 
 {style="text-align: justify;"}

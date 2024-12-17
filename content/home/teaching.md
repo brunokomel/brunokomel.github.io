@@ -26,4 +26,4 @@ Fall 2022, 2023
 ### Empirical Methods (Ph.D.)
 
 Spring 2023, 2024
-[GitHub](https://github.com/brunokomel/econ-3080-recitations)
+[Teaching Materials](https://github.com/brunokomel/econ-3080-recitations)

@@ -16,7 +16,7 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
   
-  email: brunokomel[at]pitt.edu
+  email: brunokomel[at]pitt[dot]edu
   phone: +1 (360) 553-6277
   address:
     street: 230 S Bouquet St

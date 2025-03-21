@@ -17,7 +17,7 @@ content:
   autolink: true
   
   email: brunokomel[at]pitt.edu
-  phone: +1 (360) 553-6277
+  # phone: +1 (360) 553-6277
   address:
     street: 230 S Bouquet St
     city: Pittsburgh

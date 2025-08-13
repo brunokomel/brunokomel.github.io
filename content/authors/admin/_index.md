@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Economics
+role: Assistant Professor of Economics and Community Development
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Pittsburgh
-    url: https://www.econ.pitt.edu
+  - name: Covenant College
+    url: https://covenant.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. candidate in the Department of Economics at the University of Pittsburgh. My interests are in development economics, political economy, economics of religion, and public economics.
+bio: I am an Assistant Professor of Economics and Community Development at Covenant College. My research interests are in development economics, political economy, economics of religion, and public economics.
 
 # Interests to show in About widget
 interests:
@@ -39,7 +39,7 @@ education:
   courses:
     - course: Ph.D. in Economics
       institution: University of Pittsburgh
-      year: Expected 2026
+      year: 2025
     - course: M.A. in Economics
       institution: University of Pittsburgh
       year: 2022

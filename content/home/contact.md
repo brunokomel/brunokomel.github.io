@@ -16,13 +16,13 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
   
-  email: brunokomel[at]pitt.edu
+  email: bruno.komel[at]covenant.edu
   # phone: +1 (360) 553-6277
   address:
-    street: 230 S Bouquet St
-    city: Pittsburgh
-    region: PA
-    postcode: '15260'
+    street: 14049 Scenic Hwy
+    city: Lookout Mountain
+    region: GA
+    postcode: '30750'
     country: USA
   contact_links:
   - icon: vcard
